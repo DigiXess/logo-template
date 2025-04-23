@@ -23,6 +23,16 @@
 <!-- Add industry. -->
 <!-- e.g., Technology -->
 
+** Table of Contents**
+- [Brand Name](#brand-name)
+- [Tagline (if any)](#tagline-if-any)
+- [Logo Style](#logo-style)
+- [Industry](#industry)
+- [Target Audience](#target-audience)
+- [Brand Values](#brand-values)
+- [Color Palette](#color-palette)
+- [Fonts Used](#fonts-used)
+
 ## Target Audience
 
 <!-- Add target audience. -->
