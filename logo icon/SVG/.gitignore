@@ -1,0 +1,8 @@
+# Ignore everything in this folder
+*
+
+# Allow .png and .md files only
+!*.svg
+!*.md
+!.gitkeep
+!.gitignore

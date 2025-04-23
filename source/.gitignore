@@ -1,0 +1,13 @@
+# Ignore everything in this folder
+*
+
+# Allow .png and .md files only
+!*.ai
+!*.eps
+!*.pdf  
+!*.svg
+!*.gif
+!*.psd
+!*.md
+!.gitignore
+

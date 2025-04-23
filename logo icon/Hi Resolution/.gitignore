@@ -1,0 +1,16 @@
+# Ignore everything in this folder
+*
+
+# Allow .png and .md files only
+!*.png
+!*.webp
+!*.jpg
+!*.jpeg
+!*.pdf  
+!*.gif
+!*.svg
+!*.psd
+!*.md
+!.gitkeep
+!.gitignore
+
