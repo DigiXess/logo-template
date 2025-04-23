@@ -19,7 +19,10 @@ Repository for managing the logo for the project.
  <!-- You can link to logo usage guidelines if available. -->
  - Default logo should be used in all cases unless specified otherwise and its available at [default logo](/default/ ) folder.
  - Logo Icon should be used in favicon only unless specified otherwise and its available at [logo icon](/logo%20icon/) folder.
-  
+ - See [Logo Concept](/logo-concept.md "Logo Concept") for Logo concept and design details.
+ - See [Color Palette](/colour-pallete.md "Color Palette") for color usage and specifications.
+ - See [Fonts](/fonts/README.md "Fonts") for logo font used.
+
 
 ## Contribution Guidelines
 

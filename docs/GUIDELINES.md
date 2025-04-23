@@ -16,11 +16,11 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 ## Logo Guidelines to Follow
 
 - Follow the [directory structure](/docs/logo-directory-structure.md "Directory Structure") for managing logo files.
-- Create a [colour palette](/colour-pallete.md "Colour Palette Document") file using the [colour palette template](/docs/colour-pallet-template.md "Color Palette Document"). This document should include:
+- Create a [colour palette](/colour-pallete.md "Colour Palette Document") file using the [colour palette template](https://github.com/DigiXess/logo-template/blob/dev/docs/colour-pallet-template.md "Color Palette Document"). This document should include:
   - Color codes (e.g., HEX, RGB, HSL values).
   - A brief description of each color used in the logo design.
-  - See the [example](/docs/colour-pallet-example.md "Color Palette Example") for reference.
-- Create a [logo concept](/logo-concept.md "Logo Concept Document") file using the [logo concept template](/docs/logo-concept-template.md "Logo Concept Document"). This document should include:
+  - See the [example](https://github.com/DigiXess/logo-template/blob/dev/docs/colour-pallet-example.md "Color Palette Example") for reference.
+- Create a [logo concept](/logo-concept.md "Logo Concept Document") file using the [logo concept template](https://github.com/DigiXess/logo-template/blob/dev/docs/logo-concept-template.md "Logo Concept Document"). This document should include:
   - A brief description of the logo concept.
   - The brand name and tagline (if any).
   - The logo style (e.g., Wordmark, Lettermark, Iconic, Combination Mark, etc.).

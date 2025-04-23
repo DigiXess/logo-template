@@ -64,3 +64,4 @@ When you have different logo size variants, add a folder named after the variant
 - Ensure high-resolution images are generated and stored in the `Hi Resolution` folders.
 - Include all fonts used in designs in the `fonts` folder.
 - Maintain consistency in naming conventions across all folders and files.
+- Always maintain the directory structure as mentioned above.
