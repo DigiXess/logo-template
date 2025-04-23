@@ -4,7 +4,7 @@ This document outlines a detailed log of all additions and changes made to the l
 
 The project adheres to the [Semantic Versioning][SEMVER] specification and was created using the standardized template available at [CHANGELOG Template][ChangelogTemplate]. For reference, see an example changelog at [Changelog Example][ChangelogExample].
 
-## Version 1.0.0 - Release Date: [Release Date]
+## Version 1.0.0 - Release Date: 23rd April 2024
 
 Initial Release
 
