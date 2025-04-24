@@ -12,7 +12,7 @@ This document outlines the guidelines and best practices to ensure consistency, 
 
 ## Repository Guidelines
 
-Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/4fb6dbd51f42b6930bebed033736b934633320fd/graphic-assets-repo-guidelines.md "Code Repository Guidelines") for detailed instructions on managing the repository.
+Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/blob/main/graphic-assets-repo-guidelines.md "Code Repository Guidelines") for detailed instructions on managing the repository.
 
 ## Logo Guidelines to Follow
 
