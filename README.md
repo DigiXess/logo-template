@@ -1,8 +1,12 @@
 # README
 
-This repository contains all official logo files for {{Brand name}}, including various formats, color variants, and usage guidelines to ensure consistent branding across all platforms.
+This Git repository serves as a structured template for organizing and managing logo design projects.
 
-**Latest Version: {{Version}}**
+<!--Example of readme file This repository contains all official logo files for poplit.life, including various formats, color variants, and usage guidelines to ensure consistent branding across all platforms.
+-->
+
+> ✅ **Latest Version: 1.1.0**
+> 
 
 ## Logo Usage Guidelines
 
