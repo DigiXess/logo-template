@@ -1,9 +1,7 @@
 # Logo Concept
 
-<!-- Write a short description -->
-<!-- e.g., A modern and minimalistic logo concept for a tech startup. -->
-
-** Table of Contents**
+**Table of Contents**
+- [Idea](#idea)
 - [Brand Name](#brand-name)
 - [Tagline (if any)](#tagline-if-any)
 - [Logo Style](#logo-style)
@@ -12,6 +10,9 @@
 - [Brand Values](#brand-values)
 - [Color Palette](#color-palette)
 - [Fonts Used](#fonts-used)
+
+## Idea
+<!-- Write a short description -->
 
 ## Brand Name
 
@@ -45,7 +46,7 @@
 
 ## Color Palette
 
-see [Color Palette](/colour-pallete.md "Color Palette") for details.
+see [Color Palette](/doc/colour-pallete.md "Color Palette") for details.
 
 ## Fonts Used
 
