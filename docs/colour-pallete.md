@@ -26,16 +26,16 @@ This document serves as a reference for the color palette used in the logo desig
 ## Secondary Colors  
 **Base Color:** `#HEXCODE`
 
-| Name          | Hex Code  | RGB               | HSL                 | Description           |
-| ------------- | --------- | ----------------- | ------------------- | --------------------- |
-| secondary-100 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-200 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-300 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-400 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-500 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-600 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-700 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here      |
-| secondary-800 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here  |
+| Name          | Hex Code  | RGB               | HSL                 | Description      |
+| ------------- | --------- | ----------------- | ------------------- | ---------------- |
+| secondary-100 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-200 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-300 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-400 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-500 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-600 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-700 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
+| secondary-800 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here |
 
 ---
 

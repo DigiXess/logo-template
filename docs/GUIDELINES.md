@@ -17,11 +17,11 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 ## Logo Guidelines to Follow
 
 - Follow the [directory structure](/docs/logo-directory-structure.md "Directory Structure") for managing logo files.
-- Create a [colour palette](/docs/colour-pallete.md "Colour Palette Document") file using the [colour palette template](https://github.com/DigiXess/logo-template/blob/dev/docs/templates/colour-pallet.md "Color Palette Document"). See the [example](https://github.com/DigiXess/logo-template/blob/dev/docs/templates/colour-pallet-example.md "Color Palette Example") for reference.
-- Create a [logo concept](/docs/logo-concept.md "Logo Concept Document") file using the [logo concept template](https://github.com/DigiXess/logo-template/blob/dev/docs/templates/logo-concept.md "Logo Concept Document"). See the [example](https://github.com/DigiXess/logo-template/blob/dev/docs/templates/logo-concept-example.md "Logo Concept Example") for reference.
-- Create a [logo usage](/logo-usage.md "Logo Usage Document") file using the [logo usage template](https://github.com/DigiXess/logo-template/blob/dev/docs/templates/logo-usage.md "Logo Usage Document").
+- Create a [colour palette](/docs/colour-pallete.md "Colour Palette Document") file using the [colour palette template](https://github.com/DigiXess/logo-template/blob/main/docs/templates/colour-pallete.md "Color Palette Document"). See the [example](https://github.com/DigiXess/logo-template/blob/main/docs/templates/colour-pallete-example.md "Color Palette Example") for reference.
+- Create a [logo concept](/docs/logo-concept.md "Logo Concept Document") file using the [logo concept template](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-concept.md "Logo Concept Document"). See the [example](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-concept-example.md "Logo Concept Example") for reference.
+- Create a [logo usage](/logo-usage.md "Logo Usage Document") file using the [logo usage template](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-usage.md "Logo Usage Document").
 - Remove the following folder/files:
-  - [logo template](/docs/templates/ "Logo Template")
+  - [logo template](/docs/templates/ "Logo Template folder")
   - `.gitkeep` files by running the following command:
     ```bash
     find . -type f -name ".gitkeep" -exec git rm {} \;
