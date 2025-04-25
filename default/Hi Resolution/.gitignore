@@ -1,6 +1,7 @@
 # Ignore everything in this folder
 *
-
+!*/
+!**/*
 # Allow .png and .md files only
 !*.png
 !*.webp
