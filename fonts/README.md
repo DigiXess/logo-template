@@ -2,7 +2,6 @@
 
 <!-- Include the fonts used in the logo. Licensing and fonts Installation -->
 
-# Fonts
 <!-- example:
 The fonts used in the logo for **Poplit Life** are as follows:
 
