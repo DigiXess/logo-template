@@ -32,13 +32,16 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 
 - Always install [fonts](/fonts/) before updating the logo.
 
+## Updating LICENSE
+
+- [LICENSE](/LICENSE) -  Update License information in the [LICENSE](/LICENSE.md "License") file, based on the type of logo you are creating:
+   -  [Client Logo LICENSE](https://github.com/DigiXess/repo-templates/blob/main/templates/license/client/graphic-assets/LICENSE-logo.md)
+   -  [Internal Logo LICENSE](https://github.com/DigiXess/repo-templates/blob/main/templates/license/graphic-assets/LICENSE-logo.md)
+
 ## Keep Files Updated
 
 Always ensure the following files are up to date:
 - [README.md](/README.md)
-- [LICENSE](/LICENSE) - Make sure to update the LICENSE based on below variants
-  - [Client Logo license](https://github.com/DigiXess/repo-templates/blob/main/templates/license/client/graphic-assets/LICENSE-logo.md)
-  - [Internal Logo LICENSE](https://github.com/DigiXess/repo-templates/blob/main/templates/license/graphic-assets/LICENSE-logo.md)
 
 ## Updating CHANGELOG
 
