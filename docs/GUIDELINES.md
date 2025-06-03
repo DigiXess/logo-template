@@ -38,7 +38,7 @@ Always ensure the following files are up to date:
 - [README.md](/README.md)
 - [LICENSE](/LICENSE) - Make sure to update the LICENSE based on
   - [Client Logo license](https://github.com/DigiXess/repo-templates/blob/0bfe87bbb2193b9b6488bb66ffbe3f4ea9261523/templates/license/client/graphic-assets/LICENSE-logo)
-  - [Internal Logo](https://github.com/DigiXess/repo-templates/blob/fc84865fa57ff6f10e85074306d04c36eff765b1/templates/license/graphic-assets/LICENSE-logo)
+  - [Internal Logo LICENSE](https://github.com/DigiXess/repo-templates/blob/fc84865fa57ff6f10e85074306d04c36eff765b1/templates/license/graphic-assets/LICENSE-logo)
 
 ## Updating CHANGELOG
 
