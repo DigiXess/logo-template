@@ -12,10 +12,9 @@
 ## Variants and Usage
 
 Below are the Various logo variants source files to generate different formats and resolutions:
-- Use [PopLitLife Logo with background](source/../PopLitLife.ai)  to generate default logo with all backgrounds.
-- Use [Transparent Background Logo](source/../PopLitLife%20-%20Transparent%20Bg.ai) for generating PNGs and SVGs.
-- Use [Logo ICON](/source/PopLitLife%20Logo%20ICON.ai "logo icon") for generating logo icons and favicons.
-- Use [Logo ICON with transparent background](/source/PopLitLife%20Logo%20ICON%20Transparent.ai "logo icon") for generating logo icons and favicons with transparent background.
+-  Use [Logo Icon](/source/digixess-logo-icon.ai) to generate favicons and smaller dimensions logo icons.
+- Use [Square Logo](/source/digixess-square-logo.ai): to generate square logo images used for social media profile pictures and other square format applications.
+- Use  [Source with Transparent Background](/source/digixess-logo-transparent-bg.ai) to generate PNGs and SVGs with transparent background.
 
 
 > 📌 **Important**
