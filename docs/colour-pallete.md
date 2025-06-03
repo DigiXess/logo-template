@@ -1,6 +1,6 @@
 # 🎨 Logo Color Palette Document
 
-This document serves as a reference for the color palette used in the logo design. The colors are categorized into **Primary**, **Secondary**, and **Tertiary** colors, each with its respective Hex code, RGB, HSL values, and a brief description.
+This document serves as a reference for the color palette used in the {{Brand Name}} logo design. The colors are categorized into **Primary**, **Secondary**, and **Tertiary** colors, each with its respective Hex code, RGB, HSL values, and a brief description.
 
 > 📌 **Important**
 >  
