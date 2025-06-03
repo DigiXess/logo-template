@@ -58,8 +58,9 @@ When you have different logo size variants, add a folder named after the variant
 
 ## Always Follow
 
-- For color variants : Add suffix file with the color name (e.g., `logo-red.png`, `logo-blue.svg`) instead of creating separate folders.
-- For color background variants: Add suffix  with color name such as `logo-red-bg.png`, `logo-red-blue-blue-bg.svg` instead of creating separate folders.
+- For color variants : Add suffix file with the color name (e.g., `logo-red.png`, `logo-blue.svg`, `logo-p100.svg`) instead of creating separate folders.
+- For color background variants: Add suffix  with color name such as `logo-red-bg.png`, `logo-blue-bg.svg` instead of creating separate folders.
+- For both Color and background variants use suffix background color and color name such as `logo-s600-bg-p200.svg`, `logo-black-bg-p200.svg` instead of creating separate folders, 
 - For transparent background variants: Add `Transparent` folder in `PNG`, and `SVG` folders.
 - Ensure high-resolution images are generated and stored in the `Hi Resolution` folders.
 - Include all fonts used in designs in the `fonts` folder.
