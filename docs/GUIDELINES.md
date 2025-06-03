@@ -36,7 +36,7 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 
 Always ensure the following files are up to date:
 - [README.md](/README.md)
-- [LICENSE](/LICENSE)
+- [LICENSE](/LICENSE) - Make sure to update the LICENSE according to the [template file](https://github.com/DigiXess/repo-templates/blob/main/templates/license/graphic-assets/LICENSE.md)
 
 ## Updating CHANGELOG
 
