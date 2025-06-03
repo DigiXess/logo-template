@@ -8,8 +8,8 @@ Thank you for considering contributing to this project! Please follow the guidel
 - [Report an Issue or Request a Feature](#report-an-issue-or-request-a-feature)
 
 ## Repository Guidelines
-
-Follow the [Repository Guidelines](/docs/GUIDELINES.md "Repository Guidelines") for detailed instructions on maintaining the repository.
+- Pull from the latest `1.1.0` development tag before making any changes.
+- Follow the [Repository Guidelines](/docs/GUIDELINES.md "Repository Guidelines") for detailed instructions on maintaining the repository.
 
 ## How to Contribute
 

@@ -1,12 +1,20 @@
 # 🎨 Logo Color Palette Document
 
-This document serves as a reference for the color palette used in the logo design. The colors are categorized into **Primary**, **Secondary**, and **Tertiary** colors, each with its respective Hex code, RGB, HSL values, and a brief description.
+This document serves as a reference for the color palette used in the {{Brand Name}} logo design. The colors are categorized into **Primary**, **Secondary**, and **Tertiary** colors, each with its respective Hex code, RGB, HSL values, and a brief description.
 
 > 📌 **Important**
 >  
 > The colors listed below serve as a reference. **Official Brand Guidelines will supersede this palette.**
 
----
+## Color Significance
+
+<!--
+Add color significance
+
+Pink: Fun, bold, energetic — captures pop culture, creativity, and trendiness.
+White: Clean, modern, and fresh — adds clarity and balance.
+Black: Strong, edgy, and timeless — adds contrast and power.
+Together, they signal a vibrant, confident, and pop-savvy brand -->
 
 ## Primary Colors  
 **Base Color:** `#HEXCODE`
@@ -20,8 +28,6 @@ This document serves as a reference for the color palette used in the logo desig
 | primary-500 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here     |
 | primary-600 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here     |
 | primary-700 | `#------` | `rgb(--, --, --)` | `hsl(--, --%, --%)` | Description here     |
-
----
 
 ## Secondary Colors  
 **Base Color:** `#HEXCODE`

@@ -2,6 +2,8 @@
 *
 
 # Allow .png and .md files only
+!*/
+!**/*
 !*.png
 !*.webp
 !*.jpg
