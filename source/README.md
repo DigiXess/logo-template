@@ -1,19 +1,17 @@
 # Source Files
 
- <!-- Add info about the source files here. -->
+ <!-- Add info about the source files here.
+ The default logo for {{Brand Name}} is designed to be versatile and adaptable for various branding needs. It includes multiple variants to suit different backgrounds and uses.
+ The default logo source file with and without slogan is at [default logo source](/source/digixess-logo.ai)
+ -->
 
 ## Variants and its usage
 
- <!-- Add info about the source files here. 
- # Source Files
-
-It was created using CANVA. Actual Source files are at CANVA. PDF's are editable. 
-Its located at Projects->PopLit.Life->Logo - Canva Source
-- `poplitlife logo` file is the editable PDF source file from Canva.
+<!--
 
 ## Variants and Usage
 
-The Adobe files include all logo variants:
+Below are the Various logo variants source files to generate different formats and resolutions:
 - Use [PopLitLife Logo with background](source/../PopLitLife.ai)  to generate default logo with all backgrounds.
 - Use [Transparent Background Logo](source/../PopLitLife%20-%20Transparent%20Bg.ai) for generating PNGs and SVGs.
 - Use [Logo ICON](/source/PopLitLife%20Logo%20ICON.ai "logo icon") for generating logo icons and favicons.
