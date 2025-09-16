@@ -2,10 +2,8 @@
 
 This Git repository serves as a structured template for organizing and managing logo design projects.
 
-<!--Example of readme file This repository contains all official logo files for poplit.life, including various formats, color variants, and usage guidelines to ensure consistent branding across all platforms.
--->
-
-> ✅ **Latest Version: 1.1.0**
+>
+> ✅ **Latest Version: 1.2.0**
 > 
 
 ## How to setup new repository?
@@ -18,14 +16,6 @@ This Git repository serves as a structured template for organizing and managing 
   update-repo
   ```
 - follow the guidelines in the [First Time Configuration](/docs/first-time-config.md "First Time Configuration") document.
-
-## Logo Usage Guidelines
-
-<!-- Specify how the logo should be used. -->
-<!-- e.g., Minimum size, clear space, acceptable color variations, etc. -->
- <!-- You can link to logo usage guidelines if available. -->
- - See [Logo Usage](/docs/templates/logo-usage.md "Logo Usage") for detailed logo usage guidelines, including minimum clearspace, size, and general usage rules.
- - See [Logo Concept](/docs/logo-concept.md "Logo Concept") for Logo concept and design details.
 
 ## Contribution Guidelines
 
