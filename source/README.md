@@ -1,7 +1,7 @@
 # Source Files
 
  <!-- Add info about the source files here.
- The default logo for {{Brand Name}} is designed to be versatile and adaptable for various branding needs. It includes multiple variants to suit different backgrounds and uses.
+ The default logo for <<brand-name>>} is designed to be versatile and adaptable for various branding needs. It includes multiple variants to suit different backgrounds and uses.
  The default logo source file with and without slogan is at [default logo source](/source/digixess-logo.ai)
  -->
 
@@ -31,4 +31,3 @@ Below are the Various logo variants source files to generate different formats a
  
  
  -->
-

@@ -1,0 +1,103 @@
+#!/bin/bash
+#
+# update: update Repository files when creating a new repository
+#
+# Usage:
+#   ./update-repo [OPTIONS]
+#
+# Options:
+#   -h, --help            Show this help message and exit
+#   -li                   Echo Internal License and exit
+#
+# Dependencies:
+#   - Variables from config/env.sh must be set
+#   - Logging utilities from scripts/lib/logging.sh
+#
+# Notes:
+#   - Ensure this script has execute permission.
+#   - To use this script anywhere, set the environment variables in config/env.sh
+#
+# Copyright 2025 DigiXess
+# Author URI: https://www.digixess.com
+# License: https://www.digixess.com/license
+# Created by: Preeya Gowda
+# Created on: 20-July-2025
+# Last modified by: Preeya Gowda on 20-July-2025
+# File Version: 1.0.0
+# GIT Version: 1.2.0
+
+usage() {
+  cat <<EOF
+Usage: $(basename "$0") [OPTIONS]
+
+Update repository files when creating a new repository.
+
+Options:
+  -h, --help            Show this help message and exit
+  -li                   Echo Internal License and exit
+EOF
+  exit 0
+}
+
+LI_MODE=false
+# Parse arguments
+for arg in "$@"; do
+  [[ "$arg" == "-h" || "$arg" == "--help" ]] && usage
+  [[ "$arg" == "-li" ]] && { echo "Internal License"; LI_MODE=true; }
+done
+
+set -euo pipefail
+IFS=$'\n\t'
+
+# Load environment
+ENV_FILE="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")/.." && pwd)/config/env.sh"
+if [[ -f "$ENV_FILE" ]]; then
+  source "$ENV_FILE"
+else
+  echo "env.sh not found at $ENV_FILE" >&2
+  exit 1
+fi
+
+# Load logging utilities
+LOG_FILE="$LOG_DIR/repo-update-$(date +"%Y%m%d-%H%M%S").log"
+LOGGING_LIB="$ROOT_DIR/scripts/lib/logging.sh"
+if [[ -f "$LOGGING_LIB" ]]; then
+  source "$LOGGING_LIB"
+else
+  echo "Logging Library $LOGGING_LIB not found!" >&2
+  exit 1
+fi
+
+# Check required variables
+
+REPO_SRC="$ROOT_DIR/docs/repo"
+if [[ -d "$REPO_SRC" ]]; then
+  # Replace <<brand-name>> with ${BRAND_NAME} in all files before copying
+  find "$REPO_SRC" -type f \( -name "*.md" -o -name "*.sh" -o -name "*.txt" \) -exec sed -i "s/<<brand-name>>/${BRAND_NAME}/g" {} +
+
+  if [[ "$LI_MODE" == true ]]; then
+    # Remove license-client.md
+    rm -f "$REPO_SRC/license-client.md"
+    # Rename license.internal.md to LICENSE.md
+    if [[ -f "$REPO_SRC/license-internal.md" ]]; then
+      mv "$REPO_SRC/license-internal.md" "$REPO_SRC/LICENSE.md"
+    fi
+    else 
+      # Remove LICENSE.md
+      rm -f "$REPO_SRC/license-internal.md"
+      mv "$REPO_SRC/license-client.md" "$REPO_SRC/LICENSE.md"
+
+  fi 
+
+  # Copy files to root directory
+  cp -rf "$REPO_SRC/"* "$ROOT_DIR/."
+  log_info "Repository files updated from $REPO_SRC."
+
+  # Clean up
+  rm -rf "$REPO_SRC"
+  rm -f "$ROOT_DIR/docs/first-time-config.md"
+  rm -rf "$ROOT_DIR/logs/"*
+  log_info "Cleanup completed."
+else
+  log_warning "Source folder $REPO_SRC does not exist. Skipping update."
+fi

@@ -22,7 +22,7 @@ Follow the [Repository Guidelines](https://github.com/DigiXess/repo-guidelines/b
 - Create a [logo concept](/docs/logo-concept.md "Logo Concept Document") file using the [logo concept template](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-concept.md "Logo Concept Document"). See the [example](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-concept-example.md "Logo Concept Example") for reference.
 - Create a [logo usage](/docs/templates/logo-usage.md "Logo Usage Document") file using the [logo usage template](https://github.com/DigiXess/logo-template/blob/main/docs/templates/logo-usage.md "Logo Usage Document").
 - Remove the following folder/files:
-  - [logo template](/docs/repo "Logo Template folder")
+  - [logo templates](/docs/templates "Logo Template folder")
   - `.gitkeep` files by running the following command:
     ```bash
     find . -type f -name ".gitkeep" -exec git rm {} \;

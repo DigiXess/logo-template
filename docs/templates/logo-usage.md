@@ -1,6 +1,6 @@
 # Logo Usage
 
-  This document outlines the usage guidelines for the {{Brand name}} logo, ensuring consistent branding across all platforms.
+  This document outlines the usage guidelines for the <<brand-name>> logo, ensuring consistent branding across all platforms.
 
 ## Minimum Clearspace and Size
 
